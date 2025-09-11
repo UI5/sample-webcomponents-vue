@@ -148,7 +148,7 @@
 			<b>Edition</b>: Enterprise <br>
 			<b>Admin version</b>: Vue Admin <br>
 			<hr />
-			<span class="help-dialog-text">For more information, please visit our <a href="https://github.com/SAP-samples/ui5-webcomponents-sample-vue" target="_blank">documentation</a>.</span>
+			<span class="help-dialog-text">For more information, please visit our <a href="https://github.com/UI5/sample-webcomponents-vue" target="_blank">documentation</a>.</span>
 		</p>
 
 		<div class="dialog-button">

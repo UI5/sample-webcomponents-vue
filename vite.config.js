@@ -10,7 +10,7 @@ export default defineConfig({
         }
       }
   })],
-  base: process.env.NODE_ENV === 'production' ? '/ui5-webcomponents-sample-vue' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/sample-webcomponents-vue' : '/',
   build: {
     rollupOptions: {
       output: {
