@@ -4,7 +4,7 @@
 
 # UI5 Web Components Vue Sample Application
 
-[Vue](https://vuejs.org/) sample application to demonstrate the usage of the [UI5 Web Components](https://github.com/SAP/ui5-webcomponents). It shows how to bind properties, to subscribe to events, using nested components and the bootstrapped Vue build.
+[Vue](https://vuejs.org/) sample application to demonstrate the usage of the [UI5 Web Components](https://github.com/UI5/webcomponents). It shows how to bind properties, to subscribe to events, using nested components and the bootstrapped Vue build.
  
 This project was bootstrapped with [Vue CLI](https://cli.vuejs.org/)
  
